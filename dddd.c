@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+void main()
 {
     long long n;
     int count = 0;
