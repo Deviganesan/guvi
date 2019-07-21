@@ -1,0 +1,5 @@
+z=int(input())
+sm=0
+for i in range(1,z+1):
+  sm+=i
+print(sm)  
