@@ -8,5 +8,5 @@ while((a/10)!=0)
     a=a%10;
     sum=sum+a;
 }
-printf("%d",sum);
+printf("the sum is%d",sum);
 }
